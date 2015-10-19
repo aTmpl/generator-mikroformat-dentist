@@ -3,3 +3,5 @@ Microdata (itemprop), RDFa (property), JSON-LD (application/ld+json)
 разработан адаптивным сайтом http://atmpl.ru для Bootstrap
 ## Генератор микроразметки для дантиста стоматолога
 http://atmpl.ru/publ/mikrorazmetka/mikrorazmetka_dlja_sajta_stomatologa_dantista/32-1-0-127
+## Dentist Microformat V2
+Внесены изменения улучшения и упрощения работы с генератором
